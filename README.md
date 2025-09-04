@@ -1,28 +1,44 @@
-# painel-iptu
+# 🏠 Painel de Controle IPTU – Ricardo (2024–2025)
 
-Painel automatizado para controle de IPTU com gráficos, indicadores e apoio de IA.
+**Atualizado em:** 03/09/2025  
+**Responsável:** Rute
 
-🏠 Painel de Controle IPTU – Ricardo (2024–2025)
-Atualizado em: 03/09/2025
-Responsável: Rute
+## 📌 Sobre o projeto
 
-Introdução
-Este painel foi criado para organizar e acompanhar os dados do IPTU (Imposto Predial e Territorial Urbano) referentes aos exercícios de 2024 e 2025.
-A ideia surgiu de uma necessidade simples: entender o valor total pago e pendente. No processo, acabei desenvolvendo uma ferramenta visual e automatizada
-que facilita a análise dos lançamentos, pagamentos e pendências.
+Este painel foi criado para organizar e acompanhar os dados do IPTU (Imposto Predial e Territorial Urbano) referentes aos exercícios de 2024 e 2025. A ideia surgiu da necessidade de entender o valor total pago e pendente. No processo, desenvolvi uma ferramenta visual e automatizada que facilita a análise dos lançamentos, pagamentos e pendências.
 
-Estrutura do Painel
-O painel foi montado no Excel com foco em clareza, automação e praticidade. Ele inclui:
-- Indicadores principais: total de lançamentos, parcelas quitadas, em aberto e vencidas
-- Gráficos visuais: pizza e barras para representar proporções e valores
-- Tabelas detalhadas: com datas de vencimento, pagamento, valores e situação de cada parcela
-- Fórmulas automáticas: que atualizam os dados conforme novas informações são inseridas
+## ⚙️ Funcionalidades
 
-Visualização Gráfica
-- O gráfico de pizza mostra a proporção entre os lançamentos quitados, em aberto e vencidos
-- O gráfico de barras apresenta os valores correspondentes a cada situação
-Esses elementos ajudam a entender rapidamente o cenário atual e facilitam a tomada de decisões.
+- Organização de 35 lançamentos com datas, valores e status  
+- Fórmulas automáticas para cálculo de valores quitados, em aberto e vencidos  
+- Gráficos de pizza e barras para facilitar a análise  
+- Indicadores visuais e resumo dinâmico  
+- Interface amigável e pronta para reaproveitamento anual
 
-Conclusão
-A combinação entre automação e organização estratégica permitiu transformar uma planilha comum em um painel funcional e visualmente claro, com apoio
-pontual de inteligência artificial no processo.
+## 🧠 Uso de Inteligência Artificial
+
+A combinação entre automação e organização estratégica permitiu transformar uma planilha comum em um painel funcional e visualmente claro, com apoio pontual de inteligência artificial no processo.
+
+## 📁 Estrutura de arquivos
+
+- `painel-iptu.xlsx` – Planilha principal com todos os dados, fórmulas e gráficos  
+- `README.md` – Documento explicativo com detalhes do projeto
+
+## 📈 Exemplos visuais
+
+![Modelo-de-IPTU](https://github.com/user-attachments/assets/b3a4d1f2-33c2-43e0-b0a5-eaf715a07c71)
+
+## 🔄 Adaptabilidade
+
+Este projeto pode ser facilmente adaptado para outros tipos de tributos ou controles financeiros, como contas mensais, taxas condominiais ou parcelamentos diversos.
+
+## 🧩 Habilidades demonstradas
+
+- Data Entry com validação e categorização  
+- Assistência Virtual com foco em organização financeira  
+- Automação de cálculos e indicadores no Excel  
+- Uso estratégico de IA para suporte técnico e estrutural
+
+## 📬 Contato
+
+Caso queira adaptar este painel para outro tipo de controle ou tenha interesse em projetos similares, entre em contato comigo pela Workana ou GitHub.
